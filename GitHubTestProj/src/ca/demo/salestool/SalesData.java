@@ -6,5 +6,8 @@ public class SalesData {
 	
 	public void display(){
 		System.out.println("Todod: print sales data");
+		for (int i : data){
+			
+		}
 	}
 }

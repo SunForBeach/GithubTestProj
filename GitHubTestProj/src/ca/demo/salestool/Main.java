@@ -11,6 +11,7 @@ public class Main {
 
 	private static void displayGreeting() {
 		System.out.println("Hello sale s people.22222");
+		
 		System.out.println("This app shows sales data.");
 		System.out.println("Repeat line: This app shows sales data.");
 	}

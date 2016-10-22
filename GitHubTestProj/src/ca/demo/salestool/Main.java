@@ -14,5 +14,6 @@ public class Main {
 		
 		System.out.println("This app shows sales data.");
 		System.out.println("Repeat line: This app shows sales data.");
+		System.out.println("Da dam dam dam da ram ram =====>>>> () xb.");
 	}
 }
